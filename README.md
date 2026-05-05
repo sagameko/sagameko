@@ -3,7 +3,6 @@
 💡 A passionate software engineer & data enthusiast from Australia, with a strong focus on **data science, financial analytics, and full-stack development**.  
 I enjoy building tools that make data more accessible, automating workflows, and transforming raw information into insights that drive smarter decisions.  
 
-![Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagameko&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
@@ -52,10 +51,8 @@ I enjoy building tools that make data more accessible, automating workflows, and
 ## 📬 Get in Touch
 
 - 🌐 [Peloton Partners](https://www.pelotonpartners.com.au)  
-- 💼 [LinkedIn](https://www.linkedin.com) *(drop your link here)*  
 - 📝 [GitHub Projects](https://github.com/sagameko)  
-- ✉️ Reach me at: **your email here**
+- ✉️ Reach me at: nguyenduongha2000@gmail.com
 
 ---
 
-✨ *Thanks for stopping by — let’s connect and build something impactful together!*  
