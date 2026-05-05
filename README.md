@@ -1,6 +1,6 @@
 # Hi, I'm Duong Nguyen! 👋
 
-💡 A passionate software engineer & data enthusiast from Australia, with a strong focus on **data science, financial analytics, and full-stack development**.  
+💡 A passionate software engineer & data enthusiast from Vietnam and currently based in Mebourne-Australia, with a strong focus on **data science, financial analytics, and full-stack development**.  
 I enjoy building tools that make data more accessible, automating workflows, and transforming raw information into insights that drive smarter decisions.  
 
 
