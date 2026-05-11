@@ -1,58 +1,102 @@
-# Hi, I'm Duong Nguyen! 👋
+# Duong Nguyen
 
-💡 A passionate software engineer & data enthusiast from Vietnam and currently based in Mebourne-Australia, with a strong focus on **data science, financial analytics, and full-stack development**.  
-I enjoy building tools that make data more accessible, automating workflows, and transforming raw information into insights that drive smarter decisions.  
+Software Engineer and Data Enthusiast based in Melbourne, Australia with a strong interest in data science, analytics engineering, automation, and full-stack development.
 
-
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing **Master of IT (Software Quality & Testing)** at Swinburne University.  
-- 💼 Working on advanced **financial analytics tooling** at **Peloton Partners**:
-  - P&L report normalization & categorization (Python, Streamlit, GPT, FinBERT, R).
-  - PDF/Excel/Word table extractors with interactive UI for anomaly handling.  
-  - R-based reporting pipelines (Snapshot Reports, iFOCUS, iDELIVER).  
-- 🔐 Exploring **security & cryptography**: AES-256 encryption, USB key-based access, RFID/NFC secure systems.  
-- 🏋️ Fitness enthusiast — currently working on gym-schedule apps and class booking automation.  
+I enjoy building systems that automate business workflows, improve data accessibility, and transform raw information into practical insights. My work mainly focuses on financial analytics, machine learning applications, reporting automation, and data-driven software development.
 
 ---
 
-## 🛠️ Tech Stack
+## Education
 
-**Languages & Frameworks**  
-[![My Skills](https://skillicons.dev/icons?i=python,r,js,html,css,react,django,streamlit,sqlite,postgres,tailwind)](https://skillicons.dev)
+### Swinburne University of Technology
+Master of Data Science
 
-**Tools & Platforms**  
-[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,notion,wordpress,figma)](https://skillicons.dev)
-
----
-
-## 🌱 Currently Exploring
-
-- 🤖 **AI & ML for Finance**: RAG pipelines, fine-tuning FinBERT for financial classification.  
-- 🖥️ **End-to-End Apps**: Streamlit + React/Django with secure login, dashboards, and real-time insights.  
-- 📊 **SQL + NLP**: Natural-language → SQL translation using RAG with schema awareness.  
-- 🔐 **Security**: NFC/RFID, encryption utilities, and secure access control systems.  
+### Assumption University
+Bachelor of Computer Science
 
 ---
 
-## 🏆 Achievements
+## Professional Experience
 
-- 🏅 Delivered **Pricing Snapshot Reports** & **benchmarking dashboards** for leading wealth firms.  
-- ⚡ Automated financial data pipelines → reducing manual work & speeding client delivery.  
-- 🌟 Built multiple **portfolio-ready projects**:
-  - Debt Tracking App (OOP + Streamlit + SQLite).  
-  - PDF/Word/Excel Table Extractor with manual editing & export.  
-  - AES-256 Folder Encryption Tool with Tkinter GUI.  
+### Peloton Partners
+Data Analytics & Automation Projects
 
----
+Worked on internal analytics and automation solutions for financial reporting and benchmarking workflows, including:
 
-## 📬 Get in Touch
-
-- 🌐 [Peloton Partners](https://www.pelotonpartners.com.au)  
-- 📝 [GitHub Projects](https://github.com/sagameko)  
-- ✉️ Reach me at: nguyenduongha2000@gmail.com
+- Automated financial reporting pipelines using Python and R
+- P&L normalization and categorization systems
+- Data extraction tools for PDF, Excel, and Word documents
+- Snapshot reporting workflows and benchmarking dashboards
+- Streamlined internal processes to reduce manual reporting effort and improve delivery speed
 
 ---
 
+## Technical Skills
+
+### Programming Languages
+Python, R, SQL, JavaScript, HTML, CSS
+
+### Frameworks & Libraries
+Streamlit, React, Django, FastAPI, Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy
+
+### Databases & Analytics
+SQLite, PostgreSQL, Snowflake, Power BI, Tableau
+
+### Tools & Platforms
+Git, GitHub, VS Code, Jupyter Notebook, Power Automate, WordPress, Figma
+
+---
+
+## Areas of Interest
+
+- Data Science and Machine Learning
+- Analytics Engineering
+- Financial Analytics
+- AI Applications for Finance
+- Workflow Automation
+- Natural Language Processing
+- Full-Stack Application Development
+- Secure Systems and Encryption
+
+---
+
+## Selected Projects
+
+### Restaurant Analytics Pipeline
+End-to-end analytics engineering project using Python, SQL, and dbt.  
+Includes automated ingestion, transformation pipelines, dimensional models, and reporting workflows.
+
+### Debt Tracking Application
+Expense-sharing application built with Streamlit and SQLite.  
+Supports group management, settlement suggestions, and multiple expense split methods.
+
+### Financial Table Extraction Platform
+Document processing system capable of extracting structured tables from PDFs, Excel files, and Word documents with manual validation workflows.
+
+### Natural Language to SQL Application
+Schema-aware SQL generation system using GPT-based prompting and database metadata.
+
+### AES-256 Encryption Utility
+Desktop application for secure folder encryption and protected file access.
+
+---
+
+## Current Focus
+
+Currently improving my skills in:
+
+- Snowflake and modern data platforms
+- dbt and analytics engineering workflows
+- RAG systems and LLM applications
+- Production-ready machine learning systems
+- Cloud-based data infrastructure
+
+---
+
+## GitHub
+
+https://github.com/sagameko
+
+## Contact
+
+Email: nguyenduongha2000@gmail.com
